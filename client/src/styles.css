@@ -1,0 +1,38 @@
+/* Basic Styles */
+.hero {
+    text-align: center;
+    padding: 50px;
+  }
+  
+  .highlight {
+    color: #ff6347;
+  }
+  
+  .transaction-input {
+    margin: 20px auto;
+    width: 300px;
+  }
+  
+  input {
+    display: block;
+    margin: 10px 0;
+    padding: 8px;
+    width: 100%;
+  }
+  
+  .btn {
+    padding: 10px 20px;
+    background-color: #28a745;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .btn:hover {
+    background-color: #218838;
+  }
+  
+  p {
+    font-size: 18px;
+  }
+  
